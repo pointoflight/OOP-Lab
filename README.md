@@ -1,2 +1,2 @@
 # OOP-Labs
-All OOP Labs until now.
+OOP Labs with solutions and javaDocs.

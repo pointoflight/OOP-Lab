@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"acads","l":"Association"},{"p":"extracurriculars","l":"Club"},{"p":"extracurriculars","l":"CSA"},{"p":"extracurriculars","l":"Department"},{"p":"acads","l":"IAssociation"},{"p":"extracurriculars","l":"Organization"}]

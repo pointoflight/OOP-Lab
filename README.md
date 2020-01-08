@@ -1,2 +1,2 @@
 # OOP-Labs
-OOP Labs with solutions and javaDocs.
+Object Oriented Programming Labs with solutions and javaDocs.
